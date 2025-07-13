@@ -1,9 +1,5 @@
 
 **Churn Prediction Dashboard – Machine Learning | SQL (SSMS) | Power BI**
-<img width="1174" height="666" alt="image" src="https://github.com/user-attachments/assets/2f694425-7700-47e2-804f-fed3fc7c14cc" />
-<img width="1168" height="670" alt="image" src="https://github.com/user-attachments/assets/04623d62-87a2-4dc7-b55c-6a01c6cc7f86" />
-
-
 
 **📝 Project Overview**
 
